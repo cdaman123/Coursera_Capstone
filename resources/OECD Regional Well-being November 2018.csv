@@ -1,0 +1,403 @@
+﻿Country;Region;Code;Education;Jobs;Income;Safety;Health;Environment;Civic engagement;Accessiblity to services;Housing;Community;Life satisfaction
+Australia;New South Wales;AU1;8,1;8,4;6,9;9,5;8,5;9,2;10,0;7,9;7,8;8,9;7,8
+Australia;Victoria;AU2;8,2;8,3;5,8;9,3;8,9;9,6;10,0;8,1;9,4;9,3;8,5
+Australia;Queensland;AU3;7,6;7,9;5,8;9,5;8,3;9,3;10,0;8,1;7,8;8,6;8,1
+Australia;South Australia;AU4;7,3;7,6;5,7;9,1;8,4;9,8;10,0;7,4;7,8;8,6;8,5
+Australia;Western Australia;AU5;7,7;8,5;6,7;9,0;8,9;8,2;10,0;8,4;9,4;8,5;7,8
+Australia;Tasmania;AU6;6,2;7,3;5,3;8,6;6,6;10,0;10,0;7,3;9,4;8,6;9,6
+Australia;Northern Territory;AU7;7,8;9,3;8,6;10,0;5,5;8,0;8,1;8,6;9,4;10,0;7,0
+Australia;Canberra Capital Region;AU8;9,3;9,7;10,0;10,0;9,5;10,0;10,0;9,4;9,4;9,8;9,6
+Austria;Burgenland;AT11;8,7;7,9;5,3;10,0;7,1;3,3;8,8;7,9;6,1;8,3;7,8
+Austria;Lower Austria;AT12;8,4;8,6;5,6;9,9;7,0;3,5;8,8;8,6;5,6;7,8;8,1
+Austria;Vienna;AT13;8,4;5,5;5,2;9,4;6,4;1,8;7,0;8,6;3,9;7,6;7,8
+Austria;Carinthia;AT21;9,0;8,0;5,2;10,0;7,5;5,2;7,5;7,9;5,6;8,5;8,1
+Austria;Styria;AT22;8,5;8,3;5,2;10,0;7,7;4,6;7,8;8,7;5,0;8,7;8,5
+Austria;Upper Austria;AT31;8,1;9,0;5,4;9,9;8,0;4,2;8,2;8,4;5,6;8,9;8,5
+Austria;Salzburg;AT32;8,6;9,2;5,5;10,0;8,4;5,3;8,0;8,4;5,0;8,6;8,1
+Austria;Tyrol;AT33;8,2;9,0;5,3;10,0;8,6;6,5;7,1;8,6;4,4;9,7;8,9
+Austria;Vorarlberg;AT34;7,8;9,2;5,7;10,0;8,6;6,0;6,2;8,2;5,0;8,1;7,4
+Belgium;Brussels-Capital Region;BE1;7,1;2,9;3,8;7,8;6,9;5,1;10,0;7,8;6,7;7,3;6,3
+Belgium;Flemish Region (Vlaams Gewest);BE2;8,2;7,7;4,6;9,3;8,5;4,8;10,0;8,1;7,8;9,1;7,8
+Belgium;Wallonia (Région wallonne);BE3;7,5;4,5;3,8;7,9;5,2;5,3;9,4;7,4;7,8;7,3;6,3
+Canada;Newfoundland and Labrador;CA10;8,7;4,5;5,2;8,9;5,1;10,0;3,7;7,9;10,0;7,9;10,0
+Canada;Prince Edward Island;CA11;8,6;6,8;4,4;10,0;6,9;10,0;7,8;7,6;9,4;4,3;10,0
+Canada;Nova Scotia;CA12;9,0;7,0;4,4;8,8;6,0;10,0;5,9;7,7;10,0;8,1;8,5
+Canada;New Brunswick;CA13;8,8;7,1;4,5;8,6;6,9;9,8;6,5;7,6;10,0;8,6;8,1
+Canada;Quebec;CA24;8,9;8,3;4,3;9,5;8,6;8,4;5,2;7,4;8,3;8,8;8,5
+Canada;Ontario;CA35;9,3;8,0;5,1;8,6;8,5;7,5;4,6;8,4;8,3;8,1;8,1
+Canada;Manitoba;CA46;8,7;8,6;4,5;6,5;6,2;9,0;4,9;7,6;7,8;9,5;9,3
+Canada;Saskatchewan;CA47;8,7;8,6;5,2;4,7;6,1;9,1;5,3;8,1;9,4;7,1;8,5
+Canada;Alberta;CA48;9,1;8,0;6,0;7,2;7,6;8,9;4,7;9,1;8,9;7,9;8,5
+Canada;British Columbia;CA59;9,4;8,4;5,5;8,3;8,5;9,0;5,4;9,0;8,3;9,8;9,3
+Canada;Yukon;CA60;..;9,1;7,1;0,0;5,2;9,5;6,7;5,0;8,3;..;..
+Canada;Northwest Territories;CA61;..;7,7;6,8;2,2;4,2;8,7;3,9;..;5,0;..;..
+Canada;Nunavut;CA62;..;3,0;4,9;7,2;0,0;10,0;2,3;..;2,2;..;..
+Chile;Tarapacá;CL01;5,9;7,1;0,9;0,0;5,3;5,8;0,0;3,2;1,1;4,1;5,6
+Chile;Antofagasta;CL02;6,5;5,7;1,3;0,0;3,7;6,5;0,0;5,9;1,1;6,3;7,0
+Chile;Atacama;CL03;5,2;5,0;0,8;0,0;5,4;8,3;0,3;3,3;1,7;6,6;1,9
+Chile;Coquimbo;CL04;4,8;6,0;0,5;1,9;6,7;8,3;0,6;1,9;1,7;7,4;6,3
+Chile;Valparaíso;CL05;5,9;5,9;0,8;0,0;5,2;5,3;1,1;3,1;2,2;6,3;7,4
+Chile;O'Higgins;CL06;3,9;6,7;0,6;2,2;5,3;3,5;1,3;1,7;1,7;3,8;4,8
+Chile;Maule;CL07;2,7;6,9;0,5;0,0;4,5;6,8;1,3;0,3;1,7;1,1;5,6
+Chile;Bío-Bío;CL08;4,7;5,7;0,6;0,5;5,0;6,9;1,1;2,0;1,7;4,1;4,8
+Chile;Araucanía;CL09;3,9;6,3;0,5;0,0;4,5;8,4;0,5;0,4;1,7;4,5;4,8
+Chile;Los Lagos;CL10;3,3;8,4;0,7;2,5;4,2;9,7;0,3;1,6;2,2;6,1;5,6
+Chile;Aysén;CL11;4,2;9,6;1,3;0,0;5,4;10,0;0,0;2,8;1,7;0,0;10,0
+Chile;Magallanes y Antártica;CL12;6,1;7,5;1,4;3,1;3,7;10,0;0,0;5,0;2,8;1,1;8,1
+Chile;Santiago Metropolitan;CL13;6,1;6,2;1,4;0,0;5,8;0,3;1,4;4,1;1,7;5,8;6,3
+Chile;Los Rios;CL14;4,4;6,9;0,5;0,0;4,4;9,2;0,9;1,0;..;6,4;2,6
+Chile;Arica y Parinacota;CL15;6,2;4,1;0,4;0,4;5,5;5,5;0,0;3,5;..;6,7;4,8
+Czech Republic;Prague;CZ01;10,0;10,0;3,9;8,5;6,0;3,3;5,2;8,6;2,8;7,6;6,3
+Czech Republic;Central Bohemian Region;CZ02;10,0;9,4;3,0;8,4;4,4;4,1;4,4;8,2;3,3;2,7;4,1
+Czech Republic;Southwest;CZ03;10,0;9,3;2,7;9,3;4,5;4,4;3,9;7,4;3,3;6,0;4,8
+Czech Republic;Northwest;CZ04;9,1;8,7;2,4;8,4;2,1;3,7;2,2;6,8;3,3;7,7;4,4
+Czech Republic;Northeast;CZ05;9,9;9,1;2,7;9,3;5,0;1,2;4,2;7,1;3,3;8,0;5,6
+Czech Republic;Southeast;CZ06;10,0;9,1;2,8;9,0;5,3;1,8;4,2;7,6;3,3;7,3;5,2
+Czech Republic;Central Moravia;CZ07;10,0;8,9;2,5;9,4;4,3;3,8;3,9;7,3;2,8;8,3;5,6
+Czech Republic;Moravia-Silesia;CZ08;9,9;8,3;2,5;8,8;3,0;1,0;2,9;7,3;2,2;4,8;4,1
+Denmark;Copenhagen Region;DK01;7,9;8,8;4,1;9,4;6,2;7,0;9,0;9,2;5,0;10,0;9,6
+Denmark;Zealand;DK02;6,6;8,3;3,9;10,0;5,7;6,3;9,0;8,6;5,0;9,0;8,9
+Denmark;Southern Denmark;DK03;7,0;8,1;3,7;8,9;6,9;7,2;9,0;9,1;5,6;9,5;8,9
+Denmark;Central Jutland;DK04;7,1;8,5;3,8;9,8;7,1;7,6;9,2;9,1;5,0;10,0;9,3
+Denmark;Northern Jutland;DK05;6,7;8,2;3,7;9,4;6,1;8,2;8,8;9,1;5,6;10,0;9,6
+Estonia;North Estonia;EE001;9,7;9,2;..;6,7;4,7;8,6;5,6;8,7;..;7,5;1,1
+Estonia;West Estonia;EE004;8,6;6,8;..;4,7;3,3;8,2;3,9;7,9;..;5,3;1,1
+Estonia;Central Estonia;EE006;8,0;7,3;..;9,5;2,5;8,4;4,0;7,9;..;7,7;2,2
+Estonia;Northeast Estonia;EE007;9,5;4,6;..;4,6;0,6;7,9;2,7;7,3;..;3,8;0,4
+Estonia;South Estonia;EE008;9,1;7,9;..;6,2;3,5;7,6;4,3;8,1;..;6,1;1,5
+Finland;Western Finland;FI19;8,9;6,6;3,8;10,0;7,3;9,0;5,3;9,1;5,6;9,0;8,9
+Finland;Helsinki-Uusimaa;FI1B;8,7;7,7;4,6;10,0;7,7;8,1;5,7;10,0;5,0;8,8;8,9
+Finland;Southern Finland;FI1C;8,6;6,7;3,9;9,8;6,9;8,8;5,0;8,9;5,6;8,8;8,9
+Finland;Eastern and Northern Finland;FI1D;8,8;6,2;3,6;10,0;6,7;8,7;4,7;9,1;5,6;8,8;8,9
+Finland;Åland;FI20;7,4;9,6;4,8;10,0;6,6;9,1;0,9;..;7,2;..;..
+France;Île-de-France;FR1;7,8;6,3;5,5;9,0;10,0;4,3;7,8;8,2;3,3;7,9;5,6
+France;Centre - Val de Loire;FRB;7,7;6,1;4,5;9,4;8,4;6,0;7,9;6,6;5,6;7,3;5,2
+France;Bourgogne-Franche-Comté;FRC;7,8;5,9;4,5;9,6;8,2;5,5;7,7;6,6;5,6;8,1;5,9
+France;Normandy;FRD;7,3;5,4;4,4;9,3;7,8;5,7;8,0;6,1;5,0;7,7;5,2
+France;Hauts-de-France;FRE;7,4;4,3;3,9;9,0;6,5;4,7;7,5;6,3;5,0;7,3;5,2
+France;Grand Est;FRF;7,8;5,4;4,3;9,1;8,0;5,4;7,6;6,8;5,6;8,5;5,2
+France;Pays de la Loire;FRG;8,3;7,1;4,3;9,6;9,0;6,7;8,5;6,6;5,6;8,2;6,3
+France;Brittany;FRH;8,7;6,6;4,3;10,0;7,9;7,1;8,6;6,8;6,1;8,1;6,7
+France;Nouvelle-Aquitaine;FRI;8,0;5,9;4,3;9,0;8,8;6,6;8,0;6,6;6,1;8,1;6,7
+France;Occitanie;FRJ;7,8;5,5;4,2;8,8;9,0;6,7;8,1;7,1;5,6;8,2;6,3
+France;Auvergne-Rhône-Alpes;FRK;8,3;6,8;4,6;9,0;9,5;5,3;7,7;7,1;5,0;9,2;6,3
+France;Provence-Alpes-Côte d’Azur;FRL;7,5;5,4;4,5;8,4;9,0;5,7;7,6;7,4;3,9;7,4;5,9
+France;Corsica;FRM;..;3,6;4,0;6,0;9,8;6,5;5,4;4,5;4,4;10,0;8,1
+Germany;Baden-Württemberg;DE1;8,2;9,8;5,9;9,6;7,8;5,2;7,5;9,1;4,4;8,8;6,7
+Germany;Bavaria;DE2;8,6;10,0;6,0;9,4;7,4;4,4;7,5;8,9;4,4;8,9;6,7
+Germany;Berlin;DE3;8,6;7,9;4,7;9,0;6,7;4,8;6,9;9,5;5,0;9,1;4,8
+Germany;Brandenburg;DE4;9,5;9,2;4,6;9,1;6,5;5,0;6,6;7,4;5,6;8,0;4,1
+Germany;Bremen;DE5;8,0;8,2;5,1;8,9;5,8;5,8;6,0;9,4;5,0;8,8;6,7
+Germany;Hamburg;DE6;8,4;9,3;6,0;9,1;6,9;5,9;7,0;9,7;5,0;9,3;7,0
+Germany;Hesse;DE7;8,3;9,2;5,6;9,0;7,3;5,1;7,2;9,2;4,4;8,0;6,3
+Germany;Mecklenburg-Vorpommern;DE8;9,4;8,3;4,3;9,6;5,9;5,8;6,0;7,9;6,1;8,8;5,2
+Germany;Lower Saxony;DE9;8,3;9,0;5,2;9,0;6,1;5,9;7,1;9,5;5,0;8,6;6,7
+Germany;North Rhine-Westphalia;DEA;8,1;8,5;5,3;9,9;6,2;5,3;6,9;9,2;5,0;8,9;6,3
+Germany;Rhineland-Palatinate;DEB;8,0;9,2;5,6;9,9;6,8;5,5;7,4;9,2;5,0;8,9;6,3
+Germany;Saarland;DEC;8,2;8,5;5,0;9,3;5,8;5,6;7,2;8,2;5,0;8,2;5,9
+Germany;Saxony;DED;9,8;9,3;4,6;9,4;6,8;4,5;6,9;8,1;6,1;9,1;4,1
+Germany;Saxony-Anhalt;DEE;9,3;7,9;4,4;9,1;5,4;5,1;5,4;8,9;6,7;9,3;3,7
+Germany;Schleswig-Holstein;DEF;8,5;9,0;5,5;9,8;6,2;6,3;7,1;8,4;5,6;9,7;6,7
+Germany;Thuringia;DEG;9,9;9,1;4,5;9,3;6,0;5,2;6,7;8,9;6,1;9,4;4,1
+Greece;East Macedonia - Thrace;EL51;4,5;1,1;2,1;10,0;6,7;3,6;3,2;4,2;3,3;1,2;3,0
+Greece;Central Macedonia;EL52;6,6;0,6;2,3;10,0;7,2;4,7;5,1;4,2;3,3;4,1;0,4
+Greece;West Macedonia;EL53;5,4;0,0;2,6;10,0;7,9;2,6;2,6;4,2;3,3;3,5;0,0
+Greece;Thessaly;EL61;6,4;1,0;2,2;9,5;7,7;3,0;5,0;4,2;3,3;3,9;0,7
+Greece;Epirus;EL54;5,5;0,4;2,3;9,8;9,4;3,6;3,5;4,2;3,3;3,6;0,0
+Greece;Ionian Islands;EL62;5,0;1,3;3,0;9,3;7,0;3,9;2,3;5,5;3,3;5,5;0,0
+Greece;West Greece;EL63;4,5;0,3;2,0;9,1;7,1;3,5;3,5;5,0;3,3;5,4;3,0
+Greece;Central Greece;EL64;5,3;0,8;2,1;10,0;7,8;3,4;4,9;5,0;3,3;2,4;0,0
+Greece;Peloponnese;EL65;5,7;2,3;2,2;9,3;8,2;3,0;2,8;5,0;3,3;3,5;3,0
+Greece;Attica;EL30;8,5;1,1;..;9,3;6,7;1,7;5,7;3,7;3,3;3,2;0,4
+Greece;North Aegean;EL41;5,5;0,7;..;9,9;8,0;2,0;1,1;3,7;3,9;0,0;3,3
+Greece;South Aegean;EL42;5,2;2,7;..;10,0;7,7;0,8;2,9;3,7;3,3;7,1;1,5
+Greece;Crete;EL43;5,6;2,2;..;9,4;8,1;1,5;5,6;3,7;3,3;5,6;3,0
+Hungary;Central Hungary;HU10;9,4;8,7;2,0;9,1;2,5;1,6;5,0;8,6;1,7;5,8;0,0
+Hungary;Central Transdanubia;HU21;8,4;8,6;2,1;9,3;0,7;2,8;4,0;7,9;1,7;7,2;0,4
+Hungary;Western Transdanubia;HU22;8,8;8,7;2,1;9,9;1,4;2,8;4,3;7,6;2,2;5,3;0,7
+Hungary;Southern Transdanubia;HU23;7,9;6,3;1,9;9,3;0,7;3,2;3,6;7,1;2,2;7,8;0,0
+Hungary;Northern Hungary;HU31;8,1;6,5;1,7;8,5;0,0;2,7;3,8;6,3;1,7;6,3;0,0
+Hungary;Northern Great Plain;HU32;7,6;6,3;1,7;9,3;0,5;3,0;3,4;6,5;1,1;5,1;0,0
+Hungary;Southern Great Plain;HU33;8,4;7,6;1,9;9,6;0,7;3,3;3,4;6,5;2,2;7,1;0,0
+Iceland;Reykjavik Region;IS01;7,0;8,6;3,4;8,8;8,0;10,0;6,8;9,2;3,9;10,0;7,4
+Iceland;Other Regions;IS02;4,6;8,8;3,4;10,0;7,4;10,0;7,1;8,9;3,9;9,5;8,1
+Ireland;Border, Midland and Western;IE01;7,5;3,6;3,3;9,9;7,5;8,7;4,7;7,6;7,2;9,7;7,8
+Ireland;Southern and Eastern;IE02;8,5;8,9;3,9;9,4;7,3;8,4;4,8;8,7;6,1;10,0;7,0
+Israel;Jerusalem;IL01;8,6;5,3;1,0;9,1;9,0;1,9;5,4;3,0;0,0;8,4;8,1
+Israel;North;IL02;8,1;6,2;1,4;8,8;7,1;2,3;5,1;4,9;0,6;3,7;7,0
+Israel;Haifa;IL03;9,0;7,6;2,3;..;7,7;1,9;4,9;6,1;1,7;5,4;8,1
+Israel;Central;IL04;9,3;9,3;2,8;8,6;9,4;1,6;6,3;7,6;1,7;7,5;8,5
+Israel;Tel Aviv;IL05;9,3;9,6;3,4;9,0;9,0;0,9;5,3;6,9;2,2;7,4;8,9
+Israel;South;IL06;8,9;7,0;1,5;8,6;6,9;0,5;4,5;6,4;1,1;7,7;8,5
+Italy;Piedmont;ITC1;4,8;6,0;4,9;9,8;9,0;0,0;6,9;7,1;5,0;8,4;5,2
+Italy;Aosta Valley;ITC2;4,4;6,7;5,0;10,0;8,8;2,0;6,3;6,1;4,4;3,7;6,3
+Italy;Liguria;ITC3;5,5;5,5;5,0;9,9;9,4;0,0;6,2;7,3;6,1;9,1;3,3
+Italy;Lombardy;ITC4;5,4;6,4;5,4;9,8;9,9;0,0;7,2;7,6;4,4;6,5;4,4
+Italy;Abruzzo;ITF1;5,6;3,9;3,7;9,5;9,2;3,3;6,9;7,3;5,0;7,9;3,7
+Italy;Molise;ITF2;5,0;2,2;3,3;10,0;9,2;4,5;6,2;6,3;5,0;3,4;1,9
+Italy;Campania;ITF3;4,0;0,0;2,8;8,9;7,4;3,6;5,4;6,5;3,3;5,6;1,9
+Italy;Apulia;ITF4;3,6;0,5;3,0;9,1;9,3;5,5;5,6;6,1;3,9;5,4;3,0
+Italy;Basilicata;ITF5;5,1;2,4;3,0;10,0;8,9;6,5;6,0;6,0;3,9;7,5;4,8
+Italy;Calabria;ITF6;4,3;0,0;2,7;7,5;8,8;6,4;4,5;5,3;4,4;5,3;1,1
+Italy;Sicily;ITG1;3,9;0,0;2,8;0,0;8,2;6,0;4,3;6,1;4,4;5,8;3,0
+Italy;Sardinia;ITG2;3,9;6,0;3,5;9,1;9,2;5,7;4,9;6,9;5,0;8,3;4,1
+Italy;Bolzano-Bozen;ITH1;5,5;8,9;5,9;10,0;9,9;2,1;6,7;7,1;3,9;8,5;5,9
+Italy;Trento;ITH2;6,7;7,4;5,0;9,5;9,9;5,3;6,7;7,4;4,4;8,5;5,9
+Italy;Veneto;ITH3;5,5;6,9;4,7;10,0;9,7;0,0;7,6;7,3;5,0;6,8;4,4
+Italy;Friuli-Venezia Giulia;ITH4;6,1;6,8;4,9;9,6;9,2;1,5;6,8;7,1;6,1;8,4;5,2
+Italy;Emilia-Romagna;ITH5;5,6;7,3;5,4;9,8;9,4;0,0;7,5;7,6;5,0;6,3;4,4
+Italy;Tuscany;ITI1;5,3;6,3;4,6;9,6;9,6;0,9;7,3;7,1;5,6;7,3;3,7
+Italy;Umbria;ITI2;6,1;5,2;4,2;9,4;9,8;3,1;7,5;6,9;5,0;3,7;3,7
+Italy;Marche;ITI3;5,5;4,2;4,4;9,9;9,8;2,2;7,3;7,4;5,0;6,1;3,3
+Italy;Lazio;ITI4;6,3;4,8;4,3;9,4;9,0;3,6;6,3;7,3;4,4;8,2;3,7
+Japan;Hokkaido;JPA;2,4;8,7;3,8;9,6;9,9;6,5;3,0;2,5;5,6;6,3;3,3
+Japan;Tohoku;JPB;3,3;9,1;3,7;9,9;9,7;5,9;2,2;3,4;6,1;6,7;2,2
+Japan;Northern-Kanto, Koshin;JPC;2,3;9,3;4,3;9,6;10,0;5,7;2,5;4,5;5,6;8,5;3,7
+Japan;Southern-Kanto;JPD;0,0;9,3;5,0;9,6;10,0;4,6;2,4;6,5;5,0;7,0;3,7
+Japan;Hokuriku;JPE;2,3;9,9;4,2;9,6;10,0;5,5;1,8;4,9;8,3;6,5;3,3
+Japan;Toukai;JPF;1,6;9,7;4,6;9,8;10,0;5,1;2,6;5,1;6,1;7,5;3,7
+Japan;Kansai region;JPG;0,9;8,6;4,2;9,3;10,0;4,2;2,0;5,7;7,8;7,8;3,3
+Japan;Chugoku;JPH;2,0;9,2;4,1;9,6;10,0;4,1;2,1;3,5;7,8;7,0;2,6
+Japan;Shikoku;JPI;1,9;9,0;3,7;9,5;10,0;4,6;1,6;2,9;6,7;6,8;2,6
+Japan;Kyushu, Okinawa;JPJ;2,4;8,9;3,7;9,6;10,0;4,0;1,9;2,7;6,1;7,4;3,0
+Korea;Seoul Region;KR01;8,8;7,4;3,9;8,6;9,1;0,0;7,3;10,0;2,2;3,1;3,3
+Korea;Gyeongnam;KR02;7,8;6,9;3,7;8,5;7,4;0,0;7,3;10,0;2,8;2,5;3,3
+Korea;Gyeongbuk;KR03;7,1;7,2;3,4;9,0;7,7;0,0;7,2;10,0;3,3;0,3;2,2
+Korea;Jeolla;KR04;6,5;7,2;3,3;9,0;7,7;0,0;7,8;10,0;3,3;1,7;3,0
+Korea;Chungcheong;KR05;7,5;7,7;3,5;8,6;8,2;0,0;6,8;10,0;2,8;2,7;3,7
+Korea;Gangwon;KR06;6,3;7,1;3,2;8,8;7,2;0,0;6,7;10,0;2,8;1,4;2,2
+Korea;Jeju;KR07;7,6;8,9;3,5;4,9;9,4;2,1;6,3;10,0;2,8;2,1;2,6
+Latvia;Kurzeme;LV003;..;5,4;..;7,0;0,2;6,9;3,4;5,4;..;..;..
+Latvia;Latgale;LV005;..;2,2;..;5,7;0,0;6,1;1,1;5,2;..;..;..
+Latvia;Riga;LV006;..;7,7;..;3,7;1,2;6,1;5,7;7,1;..;..;..
+Latvia;Pieriga;LV007;..;7,9;..;5,8;1,0;6,5;4,7;6,8;..;..;..
+Latvia;Vidzeme;LV008;..;5,3;..;3,6;0,0;6,5;3,8;5,5;..;..;..
+Latvia;Zemgale;LV009;..;5,5;..;5,9;0,0;6,0;2,8;5,6;..;..;..
+Lithuania;Alytus;LT001;10,0;3,8;..;3,0;0,1;4,1;2,9;4,6;..;..;..
+Lithuania;Kaunas;LT002;10,0;7,3;..;3,1;0,5;4,6;1,0;6,1;..;..;..
+Lithuania;Klaipeda;LT003;9,9;8,3;..;3,0;0,6;5,6;0,0;5,1;..;..;..
+Lithuania;Marijampole;LT004;9,6;5,3;..;0,0;0,0;4,5;0,3;4,4;..;..;..
+Lithuania;Panevežys;LT005;9,4;4,9;..;4,7;0,0;5,6;0,2;5,5;..;..;..
+Lithuania;Šiauliai;LT006;9,3;4,1;..;1,6;0,0;5,8;0,5;4,1;..;..;..
+Lithuania;Taurage;LT007;8,8;5,6;..;4,4;0,0;..;2,0;4,3;..;..;..
+Lithuania;Telšiai;LT008;9,4;5,9;..;2,7;0,4;5,3;0,0;5,5;..;..;..
+Lithuania;Utena;LT009;9,7;4,2;..;2,5;0,0;6,1;2,1;3,9;..;..;..
+Lithuania;Vilnius;LT00A;10,0;7,4;..;5,2;0,4;5,7;2,0;5,0;..;..;..
+Luxembourg;Luxembourg;LU00;7,3;7,0;6,8;9,4;8,5;6,0;10,0;9,9;6,1;6,2;6,7
+Mexico;Aguascalientes;ME01;1,5;6,9;0,2;5,8;2,6;7,1;0,0;1,7;1,1;0,0;7,0
+Mexico;Baja California;ME02;1,6;7,4;0,5;0,0;0,9;6,2;0,0;5,1;1,1;3,2;6,3
+Mexico;Baja California Sur;ME03;2,3;7,5;0,4;0,0;2,3;8,9;2,2;6,4;0,6;6,9;10,0
+Mexico;Campeche;ME04;1,2;6,8;0,1;0,0;1,3;7,1;4,0;2,8;0,0;2,9;10,0
+Mexico;Coahuila;ME05;1,7;6,5;0,2;0,0;1,5;7,5;0,7;2,6;1,1;0,0;5,6
+Mexico;Colima;ME06;1,7;7,7;0,2;0,0;0,7;7,0;3,8;2,9;0,6;4,6;6,3
+Mexico;Chiapas;ME07;0,0;5,8;0,0;0,0;0,0;6,0;0,9;0,0;0,0;1,0;5,6
+Mexico;Chihuahua;ME08;1,1;7,0;0,2;0,0;0,3;8,3;0,0;1,7;1,7;7,5;7,4
+Mexico;Mexico City;ME09;4,4;6,9;0,7;0,0;2,1;0,7;0,5;5,1;1,7;5,8;8,9
+Mexico;Durango;ME10;0,9;6,5;0,0;0,0;2,8;8,4;0,0;1,6;1,1;4,3;7,0
+Mexico;Guanajuato;ME11;0,0;6,9;0,0;0,0;2,0;5,2;0,9;0,7;0,0;0,0;6,3
+Mexico;Guerrero;ME12;0,1;7,0;0,0;0,0;1,3;5,9;3,0;0,0;0,0;1,1;4,1
+Mexico;Hidalgo;ME13;0,2;6,6;0,0;1,4;1,9;3,1;0,8;0,2;0,6;1,1;4,4
+Mexico;Jalisco;ME14;1,1;7,3;0,2;0,0;1,7;6,8;2,3;3,8;0,6;1,8;8,5
+Mexico;Edo. Mexico;ME15;1,4;6,0;0,0;0,0;2,1;1,7;1,8;1,4;0,6;2,7;7,4
+Mexico;Michoacan;ME16;0,0;7,3;0,0;0,0;2,0;5,5;2,7;0,0;0,0;0,9;9,6
+Mexico;Morelos;ME17;1,0;6,7;0,0;0,0;1,9;1,6;2,8;2,8;0,6;7,9;5,2
+Mexico;Nayarit;ME18;1,4;7,6;0,0;0,0;2,6;8,5;0,0;1,6;0,6;4,9;7,8
+Mexico;Nuevo Leon;ME19;2,5;7,1;0,4;0,0;2,8;6,4;3,5;5,0;1,1;4,4;8,9
+Mexico;Oaxaca;ME20;0,0;7,3;0,0;0,0;1,3;6,2;0,0;0,0;0,0;0,0;7,0
+Mexico;Puebla;ME21;0,1;7,2;0,0;0,0;1,1;2,8;0,0;0,0;0,0;1,0;5,9
+Mexico;Queretaro;ME22;1,5;5,6;0,3;2,2;2,0;4,0;3,2;2,9;0,6;4,6;8,5
+Mexico;Quintana Roo;ME23;1,8;8,2;0,3;0,0;1,4;9,4;0,0;4,3;0,0;9,6;10,0
+Mexico;San Luis Potosi;ME24;0,9;7,2;0,0;0,0;2,5;6,4;3,2;2,5;0,6;0,0;5,9
+Mexico;Sinaloa;ME25;2,4;6,9;0,2;0,0;2,7;7,8;0,0;0,8;0,6;0,0;10,0
+Mexico;Sonora;ME26;2,4;7,2;0,3;0,0;1,1;7,8;2,1;5,8;1,1;0,0;10,0
+Mexico;Tabasco;ME27;1,7;5,2;0,0;0,0;0,8;3,9;3,1;4,3;0,0;6,6;6,3
+Mexico;Tamaulipas;ME28;1,7;6,7;0,2;0,0;2,3;6,9;0,7;3,2;0,6;0,0;10,0
+Mexico;Tlaxcala;ME29;0,6;7,0;0,0;1,5;2,3;2,5;0,0;0,0;0,6;3,6;8,5
+Mexico;Veracruz;ME30;0,4;5,5;0,0;0,0;0,6;4,2;0,9;0,0;0,0;2,8;5,6
+Mexico;Yucatan;ME31;0,8;8,2;0,0;6,8;0,5;8,5;6,0;3,7;0,0;8,9;10,0
+Mexico;Zacatecas;ME32;0,0;6,3;0,0;0,0;2,3;8,6;0,8;0,0;1,1;7,9;4,4
+Netherlands;Groningen;NL11;7,6;7,2;3,7;9,9;6,3;5,5;8,1;10,0;6,7;10,0;9,3
+Netherlands;Friesland;NL12;6,6;8,7;3,8;9,9;6,9;5,7;8,4;9,9;6,7;8,3;9,3
+Netherlands;Drenthe;NL13;6,4;8,8;3,8;9,9;7,1;5,5;8,3;10,0;6,7;10,0;8,9
+Netherlands;Overijssel;NL21;6,9;8,9;3,8;8,9;7,2;5,3;8,6;9,7;6,1;9,8;8,9
+Netherlands;Gelderland;NL22;6,7;9,0;3,9;8,9;7,5;5,0;8,5;9,7;6,1;8,5;8,9
+Netherlands;Flevoland;NL23;6,5;8,3;4,0;8,9;7,3;4,8;7,8;10,0;6,1;9,9;7,4
+Netherlands;Utrecht;NL31;7,9;9,4;4,3;9,8;7,7;4,9;8,8;10,0;6,1;8,1;8,9
+Netherlands;North Holland;NL32;7,5;9,2;4,4;9,8;7,1;5,2;8,2;10,0;6,1;8,3;8,9
+Netherlands;South Holland;NL33;7,1;8,3;4,0;9,8;7,4;4,7;7,9;10,0;6,1;9,0;8,9
+Netherlands;Zeeland;NL34;6,6;9,7;4,1;9,8;7,8;4,2;8,1;9,7;6,1;7,5;10,0
+Netherlands;North Brabant;NL41;6,7;9,4;4,0;9,6;7,3;4,8;8,1;10,0;6,7;9,1;8,9
+Netherlands;Limburg;NL42;6,5;8,7;3,9;9,6;7,2;4,8;7,5;10,0;6,7;8,0;8,1
+New Zealand;Northland;NZ11;1,9;5,9;2,7;9,0;5,9;10,0;6,7;3,9;7,8;8,4;8,9
+New Zealand;Auckland;NZ12;5,3;7,7;4,5;8,9;8,8;9,0;6,9;7,1;6,1;8,7;7,8
+New Zealand;Waikato;NZ13;3,3;8,2;3,5;9,4;7,5;9,7;7,4;5,7;7,8;9,8;7,8
+New Zealand;Bay of Plenty;NZ14;2,7;8,4;3,4;9,6;7,5;10,0;8,1;5,3;7,8;9,3;8,1
+New Zealand;Gisborne;NZ15;2,5;7,7;3,1;7,9;2,0;10,0;8,2;5,2;7,2;9,8;8,5
+New Zealand;Hawke's Bay;NZ16;2,5;7,7;3,1;10,0;6,8;9,3;8,2;5,2;7,8;8,5;8,5
+New Zealand;Taranaki;NZ17;2,2;8,5;3,8;9,4;6,5;9,9;8,0;5,3;8,3;10,0;8,1
+New Zealand;Manawatu-Wanganui;NZ18;2,9;8,0;3,1;10,0;5,4;10,0;8,2;4,8;8,3;9,2;7,4
+New Zealand;Wellington;NZ19;5,6;8,8;4,9;9,8;7,8;9,6;8,6;7,1;7,2;8,6;7,4
+New Zealand;Tasman-Nelson-Marl.;NZ21;3,3;8,9;3,3;10,0;7,0;10,0;8,6;6,3;7,8;9,3;8,5
+New Zealand;West Coast;NZ22;3,3;8,9;3,3;10,0;3,3;10,0;8,4;6,3;6,7;8,7;9,3
+New Zealand;Canterbury;NZ23;3,8;9,6;3,9;9,4;8,0;8,5;8,2;6,3;7,8;9,8;7,8
+New Zealand;Otago;NZ24;4,0;8,8;3,3;8,8;7,5;9,6;8,4;6,0;6,7;9,4;9,6
+New Zealand;Southland;NZ25;1,6;9,3;3,2;10,0;5,6;9,5;7,9;6,5;7,8;9,9;8,5
+Norway;Oslo Region;NO01;8,1;9,0;6,2;10,0;8,6;9,1;8,0;9,7;5,0;8,8;9,3
+Norway;Hedmark and Oppland;NO02;7,4;9,3;5,1;9,3;7,0;9,8;7,1;8,9;6,7;8,8;8,5
+Norway;South-Eastern Norway;NO03;7,2;8,3;5,2;9,8;7,6;9,2;7,1;9,5;6,7;9,3;9,3
+Norway;Agder and Rogaland;NO04;7,7;8,3;5,6;9,9;8,0;8,8;7,4;9,5;6,1;8,2;9,3
+Norway;Western Norway;NO05;8,0;9,0;5,5;10,0;8,3;9,7;7,7;9,1;6,1;8,7;8,9
+Norway;Trøndelag;NO06;8,0;9,5;5,3;10,0;8,4;9,6;7,4;8,6;6,1;9,8;9,6
+Norway;Northern Norway;NO07;7,1;9,1;5,2;9,8;7,4;8,8;6,7;9,7;6,7;7,4;8,9
+Poland;Lódzkie;PL11;9,7;7,5;2,6;9,1;1,9;0,1;2,0;5,8;0,6;7,1;2,6
+Poland;Mazowieckie;PL12;10,0;7,6;3,2;8,9;4,0;1,0;3,5;6,8;1,1;7,6;3,0
+Poland;Malopolskie;PL21;10,0;6,8;2,4;9,9;4,9;0,3;2,7;6,6;0,6;7,9;2,6
+Poland;Slaskie;PL22;10,0;6,7;3,0;8,6;2,9;0,0;2,1;6,1;0,6;7,0;2,6
+Poland;Lubelskie;PL31;9,6;5,6;2,1;8,4;3,7;1,8;1,5;6,1;0,6;8,8;2,2
+Poland;Podkarpackie;PL32;10,0;5,0;1,9;9,6;4,8;2,1;1,8;7,6;0,0;8,8;1,1
+Poland;Swietokrzyskie;PL33;9,6;5,8;2,1;9,4;3,4;0,8;1,0;4,9;0,0;7,2;1,1
+Poland;Podlaskie;PL34;9,6;6,4;2,0;9,4;4,0;3,2;1,1;5,7;1,1;8,1;2,6
+Poland;Wielkopolskie;PL41;10,0;7,9;2,7;9,8;3,3;2,0;1,7;6,8;0,6;8,0;3,3
+Poland;Zachodniopomorskie;PL42;9,5;6,2;2,5;8,5;3,3;4,5;0,9;6,3;0,6;8,3;5,6
+Poland;Lubuskie;PL43;9,6;6,8;2,2;7,0;2,9;3,5;0,6;5,8;0,6;6,3;3,0
+Poland;Dolnoslaskie;PL51;10,0;6,7;2,7;8,3;3,3;1,7;1,6;6,6;1,1;6,0;3,3
+Poland;Opolskie;PL52;9,7;6,6;2,3;9,5;3,8;0,0;0,3;6,0;1,1;6,5;2,6
+Poland;Kujawsko-Pomorskie;PL61;9,7;6,2;2,2;9,1;3,3;2,3;1,0;5,7;0,0;8,1;3,0
+Poland;Warminsko-Mazurskie;PL62;9,1;5,1;2,1;8,5;2,6;3,4;0,1;5,5;0,0;7,9;3,3
+Poland;Pomorskie;PL63;9,7;7,1;2,5;9,4;3,9;4,1;2,1;7,3;0,6;6,6;3,7
+Portugal;North;PT11;1,6;5,9;2,5;9,8;7,5;8,0;3,3;6,1;5,6;5,6;0,7
+Portugal;Algarve;PT15;2,3;7,4;3,2;9,1;5,9;8,5;2,0;6,0;5,6;4,6;0,4
+Portugal;Central Portugal;PT16;1,8;7,2;2,7;9,9;7,2;7,3;2,8;5,8;6,7;6,0;0,0
+Portugal;Lisbon;PT17;4,4;6,6;3,8;9,8;7,6;8,4;3,8;7,9;5,6;6,3;1,1
+Portugal;Alentejo;PT18;1,7;6,7;2,8;9,1;5,8;8,7;3,3;4,8;6,1;3,2;1,1
+Portugal;Azores;PT20;0,4;5,7;3,0;10,0;2,3;10,0;0,0;7,8;5,0;7,6;1,1
+Portugal;Madeira;PT30;1,0;5,2;2,8;9,0;3,6;9,4;1,5;7,3;3,9;4,2;0,4
+Slovak Republic;Bratislava Region;SK01;10,0;9,1;4,3;8,8;4,1;1,8;5,1;7,8;1,1;6,5;5,2
+Slovak Republic;West Slovakia;SK02;9,9;7,8;2,5;9,1;2,1;1,6;3,8;6,5;1,1;6,2;3,7
+Slovak Republic;Central Slovakia;SK03;9,6;6,0;2,4;9,3;2,0;2,5;4,0;6,6;1,1;7,8;3,3
+Slovak Republic;East Slovakia;SK04;9,3;4,5;2,1;9,3;2,5;2,6;2,7;7,4;0,6;7,6;3,3
+Slovenia;Eastern Slovenia;SI03;9,1;7,3;2,9;8,1;5,7;3,6;1,6;7,1;2,8;8,0;3,0
+Slovenia;Western Slovenia;SI04;9,3;7,6;3,1;8,0;8,5;3,0;2,8;7,8;2,8;8,1;4,1
+Spain;Galicia;ES11;4,2;3,5;3,1;10,0;9,0;8,0;3,5;6,8;7,2;8,2;4,4
+Spain;Asturias;ES12;5,8;3,8;3,5;9,8;8,4;7,9;4,0;7,3;6,7;9,6;4,4
+Spain;Cantabria;ES13;5,6;4,4;3,3;10,0;9,2;7,5;5,5;7,4;5,0;10,0;7,0
+Spain;Basque Country;ES21;6,6;5,5;4,7;10,0;9,7;7,1;4,8;8,1;6,7;9,8;6,7
+Spain;Navarra;ES22;5,9;6,0;4,4;10,0;9,8;6,9;5,3;8,4;6,7;10,0;7,0
+Spain;La Rioja;ES23;4,5;5,4;3,5;10,0;9,9;7,4;5,9;7,1;6,7;3,8;4,1
+Spain;Aragon;ES24;5,0;5,6;3,7;9,8;9,7;7,7;5,8;7,8;6,7;7,6;5,9
+Spain;Madrid;ES30;6,5;5,2;4,5;9,9;10,0;6,5;6,0;8,6;5,0;8,8;4,8
+Spain;Castile and León;ES41;4,4;4,3;3,4;10,0;10,0;7,9;5,6;6,8;7,2;8,7;4,4
+Spain;Castile-La Mancha;ES42;2,5;1,7;2,7;9,9;9,4;7,0;6,2;7,1;6,1;9,7;4,4
+Spain;Extremadura;ES43;1,7;0,5;2,4;9,8;8,5;7,4;5,5;6,8;6,7;9,3;5,9
+Spain;Catalonia;ES51;4,7;5,2;4,0;9,6;9,7;5,5;4,4;7,6;5,6;7,9;4,8
+Spain;Valencia;ES52;3,9;2,9;2,9;9,8;8,9;6,0;6,3;7,3;5,6;8,6;4,4
+Spain;Balearic Islands;ES53;3,8;5,4;3,3;9,5;9,3;6,3;3,9;8,4;5,6;7,7;6,3
+Spain;Andalusia;ES61;2,6;0,6;2,5;9,5;8,0;5,8;5,0;7,3;5,0;8,5;4,8
+Spain;Murcia;ES62;2,9;2,5;2,5;9,5;8,7;6,0;5,7;7,9;5,6;9,5;6,7
+Spain;Ceuta;ES63;2,4;0,1;2,8;4,7;7,3;3,1;1,8;8,4;2,8;10,0;4,8
+Spain;Melilla;ES64;3,6;0,0;2,4;9,0;6,9;0,3;1,2;6,9;2,8;10,0;3,7
+Spain;Canary Islands;ES70;3,6;1,0;2,6;9,3;8,6;5,2;3,6;7,1;3,9;8,6;5,2
+Sweden;Stockholm;SE11;8,4;9,0;5,4;9,1;8,4;7,6;9,0;9,7;3,9;7,9;8,5
+Sweden;East Middle Sweden;SE12;8,1;8,0;4,4;9,3;7,8;7,5;9,2;9,2;4,4;8,1;8,1
+Sweden;Småland with Islands;SE21;7,8;9,2;4,4;10,0;8,3;7,0;9,2;8,6;5,6;8,4;9,3
+Sweden;South Sweden;SE22;8,3;7,7;4,6;8,9;8,0;6,3;8,7;8,7;4,4;8,5;8,9
+Sweden;West Sweden;SE23;8,1;9,1;4,7;9,6;8,0;7,9;9,0;9,4;4,4;8,6;8,5
+Sweden;North Middle Sweden;SE31;7,9;8,3;4,3;9,6;7,4;8,7;9,1;8,4;5,0;8,9;8,1
+Sweden;Central Norrland;SE32;8,3;9,0;4,4;10,0;7,1;9,3;9,0;10,0;5,0;6,9;8,5
+Sweden;Upper Norrland;SE33;8,6;9,0;4,4;9,5;7,4;8,9;9,1;9,9;5,0;7,6;8,5
+Switzerland;Lake Geneva Region;CH01;7,8;7,3;5,4;9,4;10,0;5,0;1,1;8,6;3,3;9,0;8,5
+Switzerland;Espace Mittelland;CH02;8,3;9,5;5,0;10,0;8,8;5,8;1,4;8,6;4,4;9,4;8,9
+Switzerland;Northwestern Switzerland ;CH03;8,5;9,5;5,5;10,0;9,4;5,0;1,3;8,7;4,4;9,5;8,5
+Switzerland;Zurich;CH04;8,8;9,5;6,2;9,6;9,7;5,1;1,1;8,9;3,9;8,7;9,6
+Switzerland;Eastern Switzerland;CH05;8,3;9,7;5,1;9,8;9,2;5,9;1,1;8,7;5,0;9,6;10,0
+Switzerland;Central Switzerland;CH06;8,5;9,9;5,7;10,0;9,9;5,8;2,3;8,7;4,4;9,5;10,0
+Switzerland;Ticino;CH07;8,1;8,2;4,9;9,8;10,0;2,1;2,6;7,8;4,4;7,1;8,1
+Turkey;Istanbul;TR10;2,3;2,7;1,2;8,0;3,9;3,1;9,5;4,4;2,2;2,2;0,0
+Turkey;Thrace;TR21;0,9;4,9;0,9;8,5;2,9;4,5;9,5;4,4;3,3;0,0;2,6
+Turkey;Southern Marmara - West;TR22;0,8;4,6;0,7;7,3;2,9;3,9;9,6;0,8;3,9;4,3;1,1
+Turkey;Izmir;TR31;2,0;2,5;1,0;7,5;3,9;2,1;9,5;3,4;3,3;0,9;0,4
+Turkey;Southern Aegean;TR32;0,1;5,0;0,7;7,0;4,6;2,6;9,5;0,5;3,3;2,7;0,0
+Turkey;Northern Aegean;TR33;0,0;5,1;0,7;6,7;2,3;3,0;9,9;0,0;3,3;1,1;1,1
+Turkey;Eastern Marmara - South ;TR41;1,8;3,5;1,0;7,8;2,7;3,3;9,8;3,1;2,8;3,2;4,4
+Turkey;Eastern Marmara - North;TR42;1,4;3,3;0,8;7,9;3,1;4,1;9,8;2,9;2,2;4,2;1,1
+Turkey;Ankara;TR51;3,9;3,0;1,4;8,1;4,7;1,0;9,8;3,1;3,9;4,0;2,6
+Turkey;Central Anatolia - West and South;TR52;0,0;4,2;0,7;7,4;3,9;0,7;9,7;0,6;2,8;2,1;1,9
+Turkey;Mediterranean region - West;TR61;1,4;3,3;0,9;8,0;4,9;1,9;9,3;2,3;3,3;1,9;1,5
+Turkey;Mediterranean region - Middle;TR62;0,8;2,8;0,5;6,4;3,0;0,2;9,2;0,0;2,2;0,0;1,5
+Turkey;Mediterranean region - East ;TR63;0,0;2,5;0,1;7,4;3,9;0,4;9,2;0,3;2,2;0,0;0,0
+Turkey;Central Anatolia - Middle;TR71;0,1;2,6;0,5;7,7;3,6;0,9;9,0;1,3;2,8;2,3;1,1
+Turkey;Central Anatolia - East;TR72;0,5;2,5;0,7;8,5;3,2;1,2;9,5;0,6;2,2;0,3;1,9
+Turkey;Western Black Sea - West;TR81;0,3;3,7;0,8;7,4;3,4;4,7;9,1;2,1;3,9;6,5;0,7
+Turkey;Western Black Sea - Middle and East;TR82;0,0;6,0;0,7;6,8;4,0;4,1;8,8;0,2;3,3;3,2;3,3
+Turkey;Middle Black Sea;TR83;0,0;4,4;0,5;7,2;3,7;3,3;9,4;0,0;2,2;2,3;2,2
+Turkey;Eastern Black Sea;TR90;0,0;5,8;0,7;8,4;5,8;3,4;8,7;0,0;2,8;5,9;1,1
+Turkey;Northeastern Anatolia - West;TRA1;0,3;4,2;0,5;8,4;3,7;0,8;9,0;0,0;0,6;4,8;1,9
+Turkey;Northeastern Anatolia - East;TRA2;0,0;4,4;0,0;5,7;3,0;0,0;7,4;0,8;0,0;4,9;0,7
+Turkey;Eastern Anatolia - West;TRB1;1,0;4,0;0,3;7,5;4,6;0,2;8,7;0,8;2,2;0,0;1,5
+Turkey;Eastern Anatolia - East;TRB2;0,0;2,2;0,0;8,3;3,2;0,0;8,4;0,0;0,0;0,4;0,0
+Turkey;Southeastern Anatolia - West ;TRC1;0,0;1,8;0,1;6,7;2,4;0,0;8,7;0,0;0,0;0,0;0,0
+Turkey;Southeastern Anatolia - Middle;TRC2;0,0;1,9;0,0;6,3;3,8;0,0;8,7;0,0;0,0;0,0;0,0
+Turkey;Southeastern Anatolia - East;TRC3;0,0;0,0;0,0;8,0;4,5;0,0;9,3;0,0;0,0;0,0;0,0
+United Kingdom;North East England;UKC;7,4;7,9;3,8;9,3;5,4;8,6;4,0;7,8;7,2;8,1;5,9
+United Kingdom;North West England;UKD;7,8;8,5;4,0;8,9;5,6;6,9;4,6;9,2;6,7;9,0;6,3
+United Kingdom;Yorkshire and The Humber;UKE;7,4;8,2;3,8;6,8;6,3;8,1;4,4;8,9;6,7;9,6;6,7
+United Kingdom;East Midlands;UKF;7,7;8,7;4,0;9,1;7,0;8,3;5,1;8,9;6,7;9,3;6,7
+United Kingdom;West Midlands;UKG;7,2;7,8;3,9;9,1;6,7;8,1;4,5;9,4;6,7;9,4;6,3
+United Kingdom;East of England;UKH;7,5;9,2;4,7;9,5;8,0;6,1;5,3;9,4;6,7;9,1;6,7
+United Kingdom;Greater London;UKI;8,8;8,4;6,1;9,0;8,7;6,5;4,9;9,7;5,0;8,4;5,9
+United Kingdom;South East England;UKJ;8,2;9,6;5,2;9,6;8,2;7,0;5,5;9,7;6,1;8,7;6,7
+United Kingdom;South West England;UKK;8,1;9,3;4,5;9,6;7,7;7,1;5,7;9,4;6,7;9,1;7,0
+United Kingdom;Wales;UKL;7,6;8,2;3,8;9,1;6,0;6,9;4,9;8,7;7,2;9,3;6,3
+United Kingdom;Scotland;UKM;7,9;8,6;4,4;9,0;4,9;8,2;6,0;9,4;5,6;9,7;7,4
+United Kingdom;Northern Ireland;UKN;7,1;7,6;3,7;9,4;6,7;8,5;3,4;8,2;5,0;9,3;7,0
+United States;Alabama;US01;9,2;6,8;7,7;0,1;1,2;7,0;8,4;5,2;10,0;9,0;8,5
+United States;Alaska;US02;10,0;7,3;10,0;1,9;4,0;8,6;9,1;7,4;6,7;8,7;6,3
+United States;Arizona;US04;8,9;7,3;7,8;3,7;6,0;6,8;9,5;6,8;7,8;7,3;6,7
+United States;Arkansas;US05;9,2;7,4;7,6;1,6;1,7;6,9;8,9;4,6;8,9;7,6;7,0
+United States;California;US06;8,3;7,8;10,0;4,4;7,1;5,4;9,8;7,3;5,6;8,5;8,5
+United States;Colorado;US08;9,6;9,4;10,0;5,9;6,2;8,3;10,0;7,6;8,9;8,7;8,5
+United States;Connecticut;US09;9,8;8,6;10,0;7,8;6,6;7,5;9,9;7,4;8,9;6,1;6,7
+United States;Delaware;US10;9,4;8,0;9,5;3,2;3,5;6,6;9,0;6,7;10,0;9,5;10,0
+United States;District of Columbia;US11;9,7;8,9;10,0;0,0;2,0;6,4;10,0;6,6;7,2;8,8;6,3
+United States;Florida;US12;9,2;7,5;8,9;3,8;6,0;7,9;9,8;6,7;8,3;8,5;7,0
+United States;Georgia;US13;9,2;7,7;8,0;2,3;3,4;7,1;9,2;6,3;8,9;7,5;7,0
+United States;Hawaii;US15;10,0;8,3;10,0;7,4;7,9;9,4;9,2;7,5;5,0;10,0;9,3
+United States;Idaho;US16;9,4;8,7;7,6;6,9;5,4;8,3;10,0;6,6;8,3;4,6;6,3
+United States;Illinois;US17;9,5;8,2;10,0;0,4;5,0;6,1;9,0;6,6;8,3;8,7;6,7
+United States;Indiana;US18;9,5;8,7;8,5;2,3;3,1;6,1;8,8;6,0;9,4;7,7;7,0
+United States;Iowa;US19;9,8;9,8;9,2;7,7;5,4;6,8;9,4;6,3;10,0;8,9;8,9
+United States;Kansas;US20;9,6;9,0;9,6;5,8;4,5;7,6;9,2;6,5;9,4;9,5;8,5
+United States;Kentucky;US21;9,6;7,0;7,6;3,2;1,2;7,2;8,3;5,6;9,4;7,5;7,4
+United States;Louisiana;US22;9,1;7,0;8,6;0,0;1,8;7,2;8,8;5,3;8,3;7,4;8,5
+United States;Maine;US23;10,0;8,6;8,7;8,6;4,3;8,6;10,0;6,6;10,0;7,7;6,3
+United States;Maryland;US24;9,6;9,0;10,0;0,6;5,0;6,7;9,5;7,3;8,9;9,5;8,5
+United States;Massachusetts;US25;9,7;8,9;10,0;8,0;6,4;7,8;10,0;7,5;8,3;9,3;7,0
+United States;Michigan;US26;9,8;7,7;8,6;3,1;3,9;6,6;9,2;6,2;10,0;10,0;6,7
+United States;Minnesota;US27;10,0;9,8;9,9;8,3;6,9;7,3;9,8;7,0;10,0;8,7;8,5
+United States;Mississippi;US28;9,2;6,4;7,0;0,6;0,6;7,3;8,9;4,0;8,9;9,6;8,1
+United States;Missouri;US29;9,7;8,5;8,5;0,0;3,5;7,2;9,3;6,0;10,0;5,8;7,8
+United States;Montana;US30;10,0;8,3;8,1;6,2;4,7;9,0;9,8;6,3;10,0;9,8;5,6
+United States;Nebraska;US31;9,5;9,8;9,7;7,3;5,6;7,4;9,6;6,8;9,4;6,0;10,0
+United States;Nevada;US32;8,6;7,7;8,5;1,1;4,3;8,3;9,3;6,9;7,2;8,1;6,3
+United States;New Hampshire;US33;10,0;9,9;10,0;8,9;5,3;8,1;10,0;7,8;10,0;10,0;6,7
+United States;New Jersey;US34;9,6;8,2;10,0;5,3;6,3;7,0;9,5;7,4;8,3;6,8;7,4
+United States;New Mexico;US35;8,9;6,4;7,6;2,2;4,6;8,9;8,6;5,0;8,3;8,2;7,4
+United States;New York;US36;9,2;7,7;10,0;6,5;6,8;7,1;9,1;6,8;7,2;8,3;7,4
+United States;North Carolina;US37;9,3;7,6;8,1;2,2;3,9;7,7;10,0;6,2;9,4;7,7;8,5
+United States;North Dakota;US38;10,0;10,0;10,0;8,0;5,2;8,6;9,0;6,5;10,0;6,4;10,0
+United States;Ohio;US39;9,8;7,9;8,7;3,6;3,2;6,0;9,5;6,5;10,0;9,8;6,3
+United States;Oklahoma;US40;9,3;7,7;9,0;2,8;1,7;7,4;8,6;5,6;8,9;7,8;7,0
+United States;Oregon;US41;9,4;8,1;8,5;7,0;5,5;9,0;10,0;7,2;7,8;7,3;7,0
+United States;Pennsylvania;US42;9,8;7,9;10,0;4,1;4,3;7,0;9,3;6,4;10,0;8,7;7,0
+United States;Rhode Island;US44;9,7;8,3;10,0;7,2;4,7;7,6;9,1;6,8;8,9;9,9;8,9
+United States;South Carolina;US45;9,3;7,3;7,7;1,4;3,0;7,3;9,2;5,5;9,4;5,2;9,6
+United States;South Dakota;US46;9,9;9,6;9,6;6,7;4,8;8,0;8,4;6,4;10,0;9,9;7,4
+United States;Tennessee;US47;9,5;7,7;8,6;1,5;2,0;7,4;8,0;5,5;9,4;8,8;8,5
+United States;Texas;US48;8,5;8,2;9,4;4,0;4,8;7,5;8,3;6,2;6,7;6,9;8,1
+United States;Utah;US49;9,5;9,7;7,8;7,5;5,8;8,1;9,5;7,6;6,7;9,0;7,4
+United States;Vermont;US50;10,0;9,5;9,9;7,8;4,8;8,5;9,3;6,9;10,0;9,4;10,0
+United States;Virginia;US51;9,6;8,5;10,0;3,3;5,2;7,4;10,0;6,9;9,4;7,7;8,5
+United States;Washington;US53;9,5;8,0;10,0;7,2;6,1;8,6;9,2;7,7;7,8;8,9;7,8
+United States;West Virginia;US54;9,6;5,9;7,2;5,1;0,9;7,6;7,7;5,5;10,0;7,9;6,3
+United States;Wisconsin;US55;9,9;9,5;9,2;5,6;5,6;7,1;10,0;6,6;10,0;8,3;7,8
+United States;Wyoming;US56;10,0;8,7;10,0;6,3;3,6;9,2;10,0;6,8;10,0;10,0;10,0
